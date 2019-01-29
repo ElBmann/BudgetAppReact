@@ -1,0 +1,14 @@
+ .shape{
+
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50em;
+    height: 2em;
+    width: 17em;
+    text-align: left;
+    padding:2%;
+    margin-bottom: 5%;
+    border-color: transparent;
+    background-color: cornsilk;
+
+} 
